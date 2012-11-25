@@ -21,4 +21,10 @@ public class GroupListController {
 	{
 		return "mirko";
 	}
+	
+	@RequestMapping("/member")
+	public String to_member() 
+	{
+		return "member";
+	}
 }
