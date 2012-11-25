@@ -1,5 +1,4 @@
-<%@ page language="java" contentType="text/html; charset=UTF-8"
-	pageEncoding="UTF-8"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
 <%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
 <%@ taglib uri="http://www.springframework.org/tags" prefix="spring"%>
@@ -7,12 +6,12 @@
 
 <!DOCTYPE html>
 
-<article>
-	<header>
-		<h2>Group22 Member List</h2>
-	</header>
-	<ul>
-		<li><a href="<c:url value="/example" />">Example</a></li>
-		<li><a href="<c:url value="/mirko" />">Mirko</a></li>
-	</ul>
-</article>
+	<article>
+		<header>
+			<h2>Mirko</h2>
+		</header>
+		<ul>
+			<li><a href="<c:url value="/" />">Index</a></li>
+
+		</ul>
+	</article>

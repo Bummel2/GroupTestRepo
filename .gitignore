@@ -25,3 +25,4 @@ build/
 WebContent/META-INF/
 WebContent/WEB-INF/
 src/META-INF/
+login.properties
