@@ -14,5 +14,6 @@
 	<ul>
 		<li><a href="<c:url value="/example" />">Example</a></li>
 		<li><a href="<c:url value="/mirko" />">Mirko</a></li>
+		<li><a href="<c:url value="/member" />">AnotherMember</a></li>
 	</ul>
 </article>
